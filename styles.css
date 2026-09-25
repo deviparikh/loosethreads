@@ -128,7 +128,7 @@ main { overflow: hidden; }
   font-size: clamp(1.08rem, 1.55vw, 1.38rem);
   line-height: 1.55;
   letter-spacing: -.01em;
-  font-weight: 520;
+  font-weight: 400;
 }
 
 .why-format h3 {
